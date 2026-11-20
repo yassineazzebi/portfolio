@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yassineazzebi.netlify.app/sitemap.xml
